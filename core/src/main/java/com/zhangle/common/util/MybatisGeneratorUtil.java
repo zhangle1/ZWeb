@@ -63,11 +63,12 @@ public class MybatisGeneratorUtil {
             serviceImpl_vm = MybatisGeneratorUtil.class.getResource(serviceImpl_vm).getPath();
         }
 
-
+//        D:\idea\root\zheng-upms\src\main\resources
+//                /D:/idea/root/zheng-upms/build/classes/main//src/main/resources/generatorConfig.xml
 
         String targetProject = module + "/" + module + "-dao";
         String basePath = MybatisGeneratorUtil.class.getResource("/").getPath().replace("/target/classes/", "").replace(targetProject, "").replaceFirst("/", "");
-        String generatorConfigXml = MybatisGeneratorUtil.class.getResource("/").getPath().replace("/target/classes/", "") + "/src/main/resources/generatorConfig.xml";
+        String generatorConfigXml = MybatisGeneratorUtil.class.getResource("/").getPath().replace("/target/classes/", "").replace("build/classes/main","") + "/src/main/resources/generatorConfig.xml";
         targetProject = basePath + targetProject;
         String sql = "SELECT table_name FROM INFORMATION_SCHEMA.TABLES WHERE table_schema = '" + database + "' AND table_name LIKE '" + tablePrefix + "_%';";
 

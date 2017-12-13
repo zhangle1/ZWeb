@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/root_main.iml" filepath="$PROJECT_DIR$/.idea/modules/root_main.iml" group="root" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/root_test.iml" filepath="$PROJECT_DIR$/.idea/modules/root_test.iml" group="root" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms.iml" group="zheng-upms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms_main.iml" group="zheng-upms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms_test.iml" group="zheng-upms" />
     </modules>
   </component>
 </project>

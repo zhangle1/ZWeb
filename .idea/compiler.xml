@@ -6,6 +6,10 @@
       <module name="core_test" target="1.8" />
       <module name="root_main" target="1.8" />
       <module name="root_test" target="1.8" />
+      <module name="zheng-upms-dao_main" target="1.8" />
+      <module name="zheng-upms-dao_test" target="1.5" />
+      <module name="zheng-upms_main" target="1.8" />
+      <module name="zheng-upms_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

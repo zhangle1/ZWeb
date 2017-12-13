@@ -1,3 +1,4 @@
 rootProject.name = 'root'
 include 'core'
+include 'zheng-upms'
 
