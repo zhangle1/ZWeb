@@ -10,7 +10,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/zheng-admin" />
             <option value="$PROJECT_DIR$/zheng-upms" />
+            <option value="$PROJECT_DIR$/zheng-upms-client" />
+            <option value="$PROJECT_DIR$/zheng-upms-common" />
+            <option value="$PROJECT_DIR$/zheng-upms-dao" />
+            <option value="$PROJECT_DIR$/zheng-upms-rpc-api" />
+            <option value="$PROJECT_DIR$/zheng-upms-rpc-service" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

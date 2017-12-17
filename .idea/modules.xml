@@ -8,7 +8,25 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/root_main.iml" filepath="$PROJECT_DIR$/.idea/modules/root_main.iml" group="root" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/root_test.iml" filepath="$PROJECT_DIR$/.idea/modules/root_test.iml" group="root" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-admin/zheng-admin.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-admin/zheng-admin.iml" group="zheng-admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-admin/zheng-admin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-admin/zheng-admin_main.iml" group="zheng-admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-admin/zheng-admin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-admin/zheng-admin_test.iml" group="zheng-admin" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms.iml" group="zheng-upms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-client/zheng-upms-client.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-client/zheng-upms-client.iml" group="zheng-upms-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-client/zheng-upms-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-client/zheng-upms-client_main.iml" group="zheng-upms-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-client/zheng-upms-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-client/zheng-upms-client_test.iml" group="zheng-upms-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-common/zheng-upms-common.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-common/zheng-upms-common.iml" group="zheng-upms-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-common/zheng-upms-common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-common/zheng-upms-common_main.iml" group="zheng-upms-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-common/zheng-upms-common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-common/zheng-upms-common_test.iml" group="zheng-upms-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-dao/zheng-upms-dao.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-dao/zheng-upms-dao.iml" group="zheng-upms-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-dao/zheng-upms-dao_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-dao/zheng-upms-dao_main.iml" group="zheng-upms-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-dao/zheng-upms-dao_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-dao/zheng-upms-dao_test.iml" group="zheng-upms-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-api/zheng-upms-rpc-api.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-api/zheng-upms-rpc-api.iml" group="zheng-upms-rpc-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-api/zheng-upms-rpc-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-api/zheng-upms-rpc-api_main.iml" group="zheng-upms-rpc-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-api/zheng-upms-rpc-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-api/zheng-upms-rpc-api_test.iml" group="zheng-upms-rpc-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-service/zheng-upms-rpc-service.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-service/zheng-upms-rpc-service.iml" group="zheng-upms-rpc-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-service/zheng-upms-rpc-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-service/zheng-upms-rpc-service_main.iml" group="zheng-upms-rpc-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-service/zheng-upms-rpc-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms-rpc-service/zheng-upms-rpc-service_test.iml" group="zheng-upms-rpc-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms_main.iml" group="zheng-upms" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zheng-upms/zheng-upms_test.iml" group="zheng-upms" />
     </modules>

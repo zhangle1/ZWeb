@@ -21,6 +21,5 @@ public class CommentGenerator  extends DefaultCommentGenerator{
             field.addJavaDocLine(" */");
         }
 
-
     }
 }

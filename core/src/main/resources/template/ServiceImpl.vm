@@ -1,6 +1,6 @@
 package ${package_name}.rpc.service.impl;
 
-import com.zhangle.common.base.BaseService;
+import com.zhangle.common.annotation.BaseService;
 import com.zhangle.common.base.BaseServiceImpl;
 import ${package_name}.dao.mapper.${model}Mapper;
 import ${package_name}.dao.model.${model};

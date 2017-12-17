@@ -25,6 +25,9 @@ public class VelocityUtil {
 	 */
 	public static void generate(String inputVmFilePath, String outputFilePath, VelocityContext context) throws Exception {
 		try {
+			 outputFilePath = outputFilePath.replace("zheng-upms-dao/build/classes/main/zheng-upms/", "");
+
+
 			Properties properties = new Properties();
 			properties.setProperty(VelocityEngine.FILE_RESOURCE_LOADER_PATH, getPath(inputVmFilePath));
 			Velocity.init(properties);

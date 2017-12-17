@@ -1,4 +1,12 @@
 rootProject.name = 'root'
 include 'core'
+include 'zheng-admin'
+include 'zheng-upms-client'
+
+
+include 'zheng-upms-common'
+include 'zheng-upms-dao'
+include 'zheng-upms-rpc-api'
+include 'zheng-upms-rpc-service'
 include 'zheng-upms'
 
