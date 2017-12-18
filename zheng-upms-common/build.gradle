@@ -1,0 +1,11 @@
+description="zhangle-web upms-common"
+
+
+dependencies {
+
+    compile(project(":core"))
+
+    compile(project(":zheng-upms"))
+
+
+}

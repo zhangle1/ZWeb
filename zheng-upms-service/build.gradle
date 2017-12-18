@@ -1,0 +1,12 @@
+description="zhangle-web upms-service"
+
+
+
+
+dependencies {
+
+    compile(project(":zheng-upms-client"))
+
+    
+    
+}

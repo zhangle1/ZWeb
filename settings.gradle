@@ -9,4 +9,5 @@ include 'zheng-upms-dao'
 include 'zheng-upms-rpc-api'
 include 'zheng-upms-rpc-service'
 include 'zheng-upms'
+include 'zheng-upms-service'
 

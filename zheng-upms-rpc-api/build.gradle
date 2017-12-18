@@ -1,0 +1,6 @@
+description="zhangle-web upms-rpc-api"
+
+dependencies {
+    compile(project(":zheng-upms"))
+    compile(project(":zheng-upms-dao"))
+}

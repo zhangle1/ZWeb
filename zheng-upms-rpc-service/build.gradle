@@ -1,0 +1,8 @@
+description="zhangle-web upms-rpc-service"
+
+dependencies {
+    compile(project(":zheng-upms"))
+    compile(project(":core"))
+    compile(project(":zheng-upms-rpc-api"))
+    
+}

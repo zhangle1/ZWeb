@@ -20,6 +20,8 @@
       <module name="zheng-upms-rpc-service_test" target="1.8" />
       <module name="zheng-upms-rpi-api_main" target="1.8" />
       <module name="zheng-upms-rpi-api_test" target="1.8" />
+      <module name="zheng-upms-service_main" target="1.8" />
+      <module name="zheng-upms-service_test" target="1.8" />
       <module name="zheng-upms_main" target="1.8" />
       <module name="zheng-upms_test" target="1.8" />
     </bytecodeTargetLevel>

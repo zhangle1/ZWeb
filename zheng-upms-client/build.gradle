@@ -1,0 +1,18 @@
+description="zhangle-web upms-client"
+
+
+dependencies {
+
+    compile(project(":zheng-upms"))
+    compile(project(":core"))
+    compile(project(":zheng-upms-rpc-api"))
+    compile(project(":zheng-upms-common"))
+    
+
+    //servlet
+//    providedCompile "javax.servlet:servlet-api:2.5"
+
+
+
+
+}

@@ -1,0 +1,7 @@
+description="zhangle-web upms-dao"
+
+dependencies {
+ compile(project(":core"))
+ compile(project(":zheng-upms"))
+
+}
