@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../zheng-upms-rpc-api">
       <excludeFolder url="file://$MODULE_DIR$/../../../zheng-upms-rpc-api/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../zheng-upms-rpc-api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../zheng-upms-rpc-api/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

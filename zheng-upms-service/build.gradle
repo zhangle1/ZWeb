@@ -1,12 +1,13 @@
 description="zhangle-web upms-service"
 
+apply plugin: 'war'
 
 
 
 dependencies {
 
     compile(project(":zheng-upms-client"))
+    compileOnly  "javax.servlet:servlet-api:2.5"
 
-    
     
 }

@@ -1,5 +1,21 @@
 description="zhangle-web upms-rpc-service"
 
+//jar {
+//    from('src.main.java') {
+//        include  '**/*.properties'
+//        include  '**/*.xml'
+//    }
+//}
+sourceSets {
+    main {
+        resources {
+            srcDirs "src/main/resources", "src/main/java"
+        }
+    }
+}
+
+
+
 dependencies {
     compile(project(":zheng-upms"))
     compile(project(":core"))

@@ -9,6 +9,10 @@ import com.zhang.upms.dao.model.UpmsUserExample;
 * 降级实现UpmsUserService接口
 * Created by shuzheng on 2017/12/17.
 */
-public class UpmsUserServiceMock extends BaseServiceMock<UpmsUserMapper, UpmsUser, UpmsUserExample> implements UpmsUserService {
+    public class UpmsUserServiceMock extends BaseServiceMock<UpmsUserMapper, UpmsUser, UpmsUserExample> implements UpmsUserService {
 
+    @Override
+    public UpmsUser createUser(UpmsUser upmsUser) {
+        return null;
+    }
 }

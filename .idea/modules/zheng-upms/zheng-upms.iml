@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../zheng-upms">
       <excludeFolder url="file://$MODULE_DIR$/../../../zheng-upms/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../zheng-upms/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../zheng-upms/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

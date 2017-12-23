@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="zheng-upms-service:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/zheng_upms_service_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="zheng-upms-service" />
+          <element id="module-output" name="zheng-upms-service_main" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="zheng-upms-service_main/web/Web2" />
+    </root>
+  </artifact>
+</component>

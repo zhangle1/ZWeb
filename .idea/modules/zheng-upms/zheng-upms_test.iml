@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id=":zheng-upms:test" external.linked.project.path="$MODULE_DIR$/../../../zheng-upms" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.zhangleweb" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
-    <output-test url="file://$MODULE_DIR$/../../../zheng-upms/build/classes/test" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../zheng-upms/out/test/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../zheng-upms/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../zheng-upms/src/test/java" isTestSource="true" />

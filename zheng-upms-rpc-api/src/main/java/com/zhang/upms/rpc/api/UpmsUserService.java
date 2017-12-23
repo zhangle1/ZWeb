@@ -10,4 +10,7 @@ import com.zhang.upms.dao.model.UpmsUserExample;
 */
 public interface UpmsUserService extends BaseService<UpmsUser, UpmsUserExample> {
 
+    UpmsUser createUser(UpmsUser upmsUser);
+
+
 }
